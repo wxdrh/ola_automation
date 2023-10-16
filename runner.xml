@@ -8,16 +8,16 @@
         </classes>
     </test>
 
-<!--    <test name="Test2" parallel="none">-->
-<!--        <classes>-->
-<!--            <class name="ShopTest"/>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Test2" parallel="none">
+        <classes>
+            <class name="ShopTest"/>
+        </classes>
+    </test>
 
-<!--    <test name="Test3" parallel="none">-->
-<!--        <classes>-->
-<!--            <class name="SignUpTest"/>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Test3" parallel="none">
+        <classes>
+            <class name="SignUpTest"/>
+        </classes>
+    </test>
 
 </suite>
